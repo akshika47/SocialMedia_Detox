@@ -7,10 +7,10 @@ var profileArray = document.getElementsByClassName("_5u3n");
 var iterator = 0;
 var counter = 17;
 var query = document.querySelector('[data-testid ="unfollow"]');
-var quryScorllable = unf.querySelector(".scrollable");
+var quryScorllable = query.querySelector(".scrollable");
 var time = 300;
 function detox(){
-	profileArray[x].click();
+	profileArray[iterator].click();
     if(iterator++ < profileArray.length){
        counter++;
        if(counter%16 == 0){
