@@ -13,9 +13,16 @@ This repo contains scripts to bulk unfollow people.
 
 ## LinkedIn
 
-1. go this page  https://www.linkedin.com/feed/following/
+1. go to - https://www.linkedin.com/feed/following/
 2. Open the Developer Console on your browser.
 3. Copy paste the code in LinkedIn.js file and hit enter.
+4. Wait for few minutes until you have unfollowed everyone.
+
+## Twitter
+
+1. go to - https://twitter.com/following
+2. Open the Developer Console on your browser.
+3. Copy paste the code in Twitter.js file and hit enter.
 4. Wait for few minutes until you have unfollowed everyone.
 
 
